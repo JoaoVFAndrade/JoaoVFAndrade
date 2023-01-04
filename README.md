@@ -1,4 +1,4 @@
-### Oi! Eu sou o João
+### Oi! Eu sou o João.
 
 <div align="center">
   <a href="https://github.com/JoaoVFAndrade">
